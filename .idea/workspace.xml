@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c1dba77-ca34-4670-b9e4-a352255b3d83" name="Changes" comment="entity mapping test">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/dao/CourseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/dao/InstructorDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/entity/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/entity/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/entity/InstructorDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/hansung/cse/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hs-2171098-hyunjinchoi/helloEntityMapping.git",
+    "accountId": "9fac53bd-6d09-454a-ad23-aa314eed1d1e"
+  }
+}]]></component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -54,6 +45,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,12 +68,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713597649737</updated>
-      <workItem from="1713597651686" duration="10589000" />
+      <workItem from="1713597651686" duration="11384000" />
     </task>
+    <task id="LOCAL-00001" summary="entity mapping test">
+      <option name="closed" value="true" />
+      <created>1713678865858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713678865858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="entity mapping test" />
